@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:45:27.191368
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:52
 #+TITLE: 金剛經法眼懸判疏鈔
 #+PROPERTY: CBETA_ID X25n0499
 #+PROPERTY: ID KR6c0087
