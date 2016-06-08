@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:45:27.191368
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:52
 #+TITLE: 金剛經法眼懸判疏鈔
 #+PROPERTY: CBETA_ID X25n0499
 #+PROPERTY: ID KR6c0087
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 25, No. 499
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0087_X_008-0655c> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
-
- 金剛般若波羅蜜經懸判疏鈔卷之八¶
+金剛般若波羅蜜經懸判疏鈔卷之八¶
 西天寺後學沙門　性起　述¶
 
 【△八誦持感應。文三。初總標。】¶
@@ -173,6 +172,6 @@
 
 【△三結大科。】¶
 
-「以上第八諸持感應一科已竟。」¶
+「以上第八諸持感應一科巳竟。」¶
 ¶
 金剛般若波羅蜜經懸判疏鈔卷之八(終)
